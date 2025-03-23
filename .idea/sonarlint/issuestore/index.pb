@@ -13,3 +13,7 @@ R
 "contracts/fabricator-matching.clar,0/a/0a278dc16f0af827aaba899b009970d725471375
 Q
 !tests/fabricator-matching.test.ts,5/d/5d8b7820aa9fb325cbaf971f6a2bd975b37ecbae
+P
+ contracts/material-sourcing.clar,1/5/1514261f7555995c78b00fd74cc22398afe89264
+O
+tests/material-sourcing.test.ts,2/a/2a3f8d67c3857a56232ccc4c85a1c96d44c67ac8
