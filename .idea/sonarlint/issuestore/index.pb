@@ -3,3 +3,17 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 R
 "contracts/design-registration.clar,1/f/1fa9402057e7da2e146d9664039a17b8e319d2c9
+Q
+!tests/design-registration.test.ts,0/b/0bb3b5b007467af4befea5787086d0e55d938751
+U
+%contracts/effectiveness-feedback.clar,6/2/62df52d67841e1792ee6a37f95049bbd4de4fd2a
+T
+$tests/effectiveness-feedback.test.ts,6/f/6f45bc7e87129f6cd3feba63d9347d56a46ba116
+R
+"contracts/fabricator-matching.clar,0/a/0a278dc16f0af827aaba899b009970d725471375
+Q
+!tests/fabricator-matching.test.ts,5/d/5d8b7820aa9fb325cbaf971f6a2bd975b37ecbae
+P
+ contracts/material-sourcing.clar,1/5/1514261f7555995c78b00fd74cc22398afe89264
+O
+tests/material-sourcing.test.ts,2/a/2a3f8d67c3857a56232ccc4c85a1c96d44c67ac8
