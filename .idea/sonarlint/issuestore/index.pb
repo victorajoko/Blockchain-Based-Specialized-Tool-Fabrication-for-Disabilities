@@ -9,3 +9,7 @@ U
 %contracts/effectiveness-feedback.clar,6/2/62df52d67841e1792ee6a37f95049bbd4de4fd2a
 T
 $tests/effectiveness-feedback.test.ts,6/f/6f45bc7e87129f6cd3feba63d9347d56a46ba116
+R
+"contracts/fabricator-matching.clar,0/a/0a278dc16f0af827aaba899b009970d725471375
+Q
+!tests/fabricator-matching.test.ts,5/d/5d8b7820aa9fb325cbaf971f6a2bd975b37ecbae
